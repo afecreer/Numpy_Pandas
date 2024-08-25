@@ -13,8 +13,8 @@ import numpy as np
 # lista =np.eye(5)
 # lista =np.random.rand()
 # lista =np.random.rand(5)
-#lista =np.random.rand(4,5)
-#lista =np.random.randint(1,15)
+# lista =np.random.rand(4,5)
+# lista =np.random.randint(1,15)
 lista =np.random.randint(1,100,(10,10))
 
 
