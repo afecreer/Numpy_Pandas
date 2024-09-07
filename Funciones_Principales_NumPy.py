@@ -13,6 +13,6 @@ a = np.array([[1,2],[3,4]])
 b = np.array([[5,6]])
 print(a)
 #qye oasa cyabdi quieres unir el array b con el array a
-#con el comando concatenate se unen
+#con el comando concatenate se unen M
 c= np.concatenate((a,b), axis =0)
 print(c)
